@@ -65,7 +65,7 @@ To get a local copy up and running, follow these steps:
 
 Sathish Kumar - sathishkumarvk227@gmail.com
 
-Project Link: https://github.com/your-username/restaurant-website
+Project Link: https://github.com/SathishKumar-2004/Restaurant.git
 
 ## 🌟 Acknowledgements
 
