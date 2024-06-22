@@ -4,7 +4,7 @@ Welcome to the Restaurant Website project! This repository contains the code for
 
 ## 🚀 Demo
 
-[Live Demo](http://your-live-demo-link.com)
+[Live Demo](https://sathishkumar-2004.github.io/Restaurant/)
 
 ## 🎨 Features
 
